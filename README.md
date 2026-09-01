@@ -31,21 +31,7 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishva133&show_icons=true&theme=github_dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva133&layout=compact&theme=github_dark" />
-
-</p>
-
----
 
 ## 🔗 Connect With Me
 
@@ -53,10 +39,6 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 
 <a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
 </p>
