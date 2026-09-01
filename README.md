@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vishva133/Vishva133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Vishva
 
-Here are some ideas to get you started:
+### AI Developer | Building Intelligent Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm interested in **Artificial Intelligence, Machine Learning and Software Development**.
+
+- 🤖 Currently working on AI projects
+- 🌱 Learning AI, ML and Full-Stack Development
+- 💡 Interested in building real-world AI products
+- 🎯 Goal: Build powerful and useful AI systems
+- 📫 Connect with me through LinkedIn or GitHub
+
+---
+
+## 📊 GitHub Activity
+
+[![Vishva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishva&theme=github-dark)](https://github.com/Vishva)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,git,github,vscode" />
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vishva&show_icons=true&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva&layout=compact&theme=github_dark" />
+
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Vishva133">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
