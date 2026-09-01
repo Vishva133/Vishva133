@@ -19,7 +19,73 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 - 📫 Connect with me through LinkedIn or GitHub
 
 ---
+<div align="center">
 
+# 👋 Hi, I'm Eeta
+
+### AI Developer | Building Intelligent Systems
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm interested in **Artificial Intelligence, Machine Learning and Software Development**.
+
+- 🤖 Currently working on AI projects
+- 🌱 Learning AI, ML and Full-Stack Development
+- 💡 Interested in building real-world AI products
+- 🎯 Goal: Build powerful and useful AI systems
+- 📫 Connect with me through LinkedIn or GitHub
+
+---
+
+## 📊 GitHub Activity
+
+[![Vishva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishva133&theme=github-dark)](https://github.com/Vishva133)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,git,github,vscode" />
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 ## 🛠️ Languages & Tools
 
 <p align="left">
