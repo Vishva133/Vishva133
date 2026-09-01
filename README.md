@@ -20,12 +20,6 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 
 ---
 
-## 📊 GitHub Activity
-
-[![Vishva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishva&theme=github-dark)](https://github.com/Vishva)
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -36,21 +30,7 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishva&show_icons=true&theme=github_dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishva&layout=compact&theme=github_dark" />
-
-</p>
-
----
 
 ## 🔗 Connect With Me
 
