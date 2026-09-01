@@ -41,11 +41,6 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 
 ---
 
-## 📊 GitHub Activity
-
-[![Vishva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishva133&theme=github-dark)](https://github.com/Vishva133)
-
----
 
 ## 🛠️ Languages & Tools
 
