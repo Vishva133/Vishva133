@@ -12,7 +12,6 @@
 
 I'm interested in **Artificial Intelligence, Machine Learning and Software Development**.
 
-- 🤖 Currently working on AI projects
 - 🌱 Learning AI, ML and Full-Stack Development
 - 💡 Interested in building real-world AI products
 - 🎯 Goal: Build powerful and useful AI systems
