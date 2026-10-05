@@ -24,7 +24,7 @@ I'm interested in **Artificial Intelligence, Machine Learning and Software Devel
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,nodejs,git,github,vscode" />
 
 </p>
 
